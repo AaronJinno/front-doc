@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://aicell.cc/front-doc/sitemap.xml
