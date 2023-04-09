@@ -1,10 +1,10 @@
 ---
 home: true
 icon: home
-title: Java全栈
-heroImage: /avatar.jpg
-heroText: Java全栈笔记
-tagline: Java全栈文档，心血总结，包含SQL和服务器等
+title: 前端笔记
+heroImage: /avatar.png
+heroText: 前端全栈笔记
+tagline: 以Vue为核心的前端全栈笔记
 
 actions: 
   - text: 进入指南
@@ -12,13 +12,13 @@ actions:
     type: primary
 
 features:
-  - title: Java 全栈
+  - title: 前端 全栈
     icon: markdown
-    details: 包含所有Java相关的笔记，包括：JavaSE、Java常用类库、Spring全家桶、中间件等
+    details: 包含前端全栈式技术体系，从HTML到Vue框架
     # link: https://theme-hope.vuejs.press/guide/markdown/
 
-  - title: 服务端 全栈
-    icon: slides
-    details: 包含MySQL、NoSQL、Linux、服务器运维等。同时也包含一些理论知识和常用的工具
+  - title: 以Vue为核心
+    icon: vue
+    details: 所有技术都是以vue为核心的，包括UI和组件资源
     # link: https://theme-hope.vuejs.press/guide/layout/slides.html
 ---

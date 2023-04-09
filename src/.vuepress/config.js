@@ -3,10 +3,10 @@ import theme from "./theme.js";
 import { searchProPlugin } from "vuepress-plugin-search-pro"
 
 export default defineUserConfig({
-  base: "/java-doc/",
+  base: "/front-doc/",
   lang: "zh-CN",
-  title:"Java全栈",
-  description: "Java全栈技术中心",
+  title:"前端笔记",
+  description: "以Vue为核心的前端笔记",
 
   theme,
   shouldPrefetch: false,

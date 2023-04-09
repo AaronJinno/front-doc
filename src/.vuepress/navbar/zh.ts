@@ -8,77 +8,60 @@ export const zhNavbar = navbar([
     icon: "update", 
     link: "/guide/" 
   },
-
-  //2.Java
+   
+  //2.基础：H5+JS+ES+TS
   {
-    text: "Java",
-    icon: "java",
-    link: "/java/",
+    text: "basic",
+    icon: "javascript",
+    link: "/basic/"
   },
 
-  //3. Spring
-  {
-    text: "Spring",
-    icon: "alias",
-    link: "/spring/",
-  },
-
-
-  //4.中间件
-  {
-    text: "中间件",
-    icon: "mesh",
-    link: "/middle/",
-  },
-
-   //6.SQL
-  {
-    text: "SQL",
-    icon: "mysql",
-    prefix: "/sql/",
-    children:[
-      {
-        text: "MongoDB",
-        icon: "array",
-        link:"mongodb/",
-      }
-    ]
-  },
-
-  //7.服务器
-  {
-    text: "服务器",
-    icon: "module",
-    link:"/service/",
-  },
-
-  //8. 工具
+  //3.工具
   {
     text: "工具",
     icon: "tool",
     link: "/tool/"
   },
-   //9.dev
-   {
+
+  //4.Vue
+  {
+    text: "Vue",
+    icon: "vue",
+    link: "/vue/"
+  },
+
+  //5.Applet
+  {
+    text: "小程序",
+    icon: "leaf",
+    link: "/applet/"
+  },
+
+  //6. 组件
+  {
+    text: "组件",
+    icon: "view",
+    link: "/element/",
+  },
+
+  //7. awesome
+  {
+    text: "awesome",
+    icon: "linter",
+    link: "/awesome/"
+  },
+
+  //8. dev
+  {
     text: "dev",
     icon: "shell",
     link: "/dev/"
-   },
-   {
-    text: "项目",
-    icon: "exercise",
+  },
+
+  //9. 项目
+  {
+    text: "item",
+    icon: "check",
     link: "/item/"
-   },
-   //10.理论
-   {
-    text: "理论",
-    icon: "anonymous",
-    link: "/theory/"
-   },
-    //10.其他：一些外链
-    {
-      text: "others",
-      icon: "community",
-      link: "/other/"
-    },
+  }
 ]);

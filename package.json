@@ -1,7 +1,7 @@
 {
-  "name": "java-doc",
+  "name": "front-doc",
   "version": "1.0.0",
-  "description": "Java Docs",
+  "description": "Front-end Docs",
   "license": "MIT",
   "type": "module",
   "scripts": {
