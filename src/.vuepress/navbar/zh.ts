@@ -5,14 +5,14 @@ export const zhNavbar = navbar([
   //1.指南
   { 
     text: "指南", 
-    icon: "daohang", 
+    icon: "zhinan", 
     link: "/guide/" 
   },
    
   //2.基础：H5+JS+ES+TS
   {
-    text: "basic",
-    icon: "basic",
+    text: "基础",
+    icon: "sf",
     prefix: "/basic/",
     children:[
       {
@@ -54,7 +54,34 @@ export const zhNavbar = navbar([
   {
     text: "Vue",
     icon: "Vue",
-    link: "/vue/"
+    prefix: "/vue/",
+    children:[
+      {
+        text: "Vue",
+        icon: "Vue",
+        link: "vue/"
+      },
+      {
+        text: "Vue-Route",
+        icon: "vue-right",
+        link: "vueroute/",
+      },
+      {
+        text: "Pinia",
+        icon: "pinia",
+        link: "pinia/"
+      },
+      {
+        text: "Nuxt",
+        icon: "nuxt",
+        link: "nuxt/"
+      },
+      {
+        text: "Vuepress",
+        icon: "folder-vuepress",
+        link: "vuepress"
+      }
+    ]
   },
 
   //5.Applet
@@ -69,6 +96,11 @@ export const zhNavbar = navbar([
         link: "uniapp/"
       },
       {
+        text: "ucloud",
+        icon: "Ucloud",
+        link: "ucloud/"
+      },
+      {
         text: "字节跳动",
         icon: "douyin1",
         link:"bytedance/"
@@ -78,29 +110,29 @@ export const zhNavbar = navbar([
 
   //6. 组件
   {
-    text: "组件库",
-    icon: "zujian",
+    text: "组件",
+    icon: "jimu",
     link: "/element/",
   },
 
   //7. awesome
   {
     text: "awesome",
-    icon: "mofabang",
+    icon: "cool",
     link: "/awesome/"
   },
 
   //8. dev
   {
     text: "dev",
-    icon: "-daimashengcheng",
+    icon: "kaifa1",
     link: "/dev/"
   },
 
   //9. 项目
   {
-    text: "item",
-    icon: "xiangmu",
+    text: "项目",
+    icon: "xiangmu4",
     link: "/item/"
   }
 ]);

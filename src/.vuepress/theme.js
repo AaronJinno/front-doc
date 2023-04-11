@@ -15,8 +15,8 @@ export default hopeTheme({
   darkmode: "toggle",
   print:true,
   // iconAssets: "iconfont",
-  // iconPrefix:"icon-",
-  iconAssets:"https://at.alicdn.com/t/c/font_4009681_pz44a0vmtp.css?spm=a313x.7781069.1998910419.52&file=font_4009681_pz44a0vmtp.css",
+  // iconPrefix:"icon",
+  iconAssets:"https://at.alicdn.com/t/c/font_4010197_wq56vttkn38.css?spm=a313x.7781069.1998910419.52&file=font_4010197_wq56vttkn38.css",
   
   //3.布局配置
   logo: "/logo.svg",
@@ -25,7 +25,8 @@ export default hopeTheme({
   navbarLayout: {
     start: ["Brand"],
     center: ["Links"],
-    end: ["Outlook","Search"]
+    // end: ["Outlook","Search"]
+    end: ["Search"]
   },
   sidebarIcon: true,
   headerDepth: 1,
