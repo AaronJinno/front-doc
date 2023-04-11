@@ -14,7 +14,9 @@ export default hopeTheme({
   favicon: "/favicon.svg",
   darkmode: "toggle",
   print:true,
-  iconAssets: "iconfont",
+  // iconAssets: "iconfont",
+  // iconPrefix:"icon-",
+  iconAssets:"https://at.alicdn.com/t/c/font_4009681_pz44a0vmtp.css?spm=a313x.7781069.1998910419.52&file=font_4009681_pz44a0vmtp.css",
   
   //3.布局配置
   logo: "/logo.svg",
