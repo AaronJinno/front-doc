@@ -1,6 +1,6 @@
 ---
-title: "          Uniapp"
-icon: "uniapp"
+title: "          基础组件"
+icon: "jimu"
 index: false
 ---
 :::tip

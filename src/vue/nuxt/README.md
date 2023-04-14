@@ -1,6 +1,6 @@
 ---
-title: "          Uniapp"
-icon: "uniapp"
+title: "      Nuxt"
+icon: "nuxt"
 index: false
 ---
 :::tip

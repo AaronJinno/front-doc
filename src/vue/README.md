@@ -1,7 +1,5 @@
 ---
-title: "指南"
+title: Vue
+icon: Vue
 index: false
 ---
-::: tip
-当前处于建设阶段
-:::

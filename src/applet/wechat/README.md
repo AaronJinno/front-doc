@@ -1,6 +1,6 @@
 ---
-title: "          Uniapp"
-icon: "uniapp"
+title: "        微信"
+icon: "weixin"
 index: false
 ---
 :::tip

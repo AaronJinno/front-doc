@@ -1,6 +1,6 @@
 ---
-title: "          Uniapp"
-icon: "uniapp"
+title: "        JS"
+icon: "Javascript-icon-02"
 index: false
 ---
 :::tip

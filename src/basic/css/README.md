@@ -1,6 +1,6 @@
 ---
-title: "          Uniapp"
-icon: "uniapp"
+title: "         CSS"
+icon: "css"
 index: false
 ---
 :::tip

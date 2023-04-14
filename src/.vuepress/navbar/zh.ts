@@ -2,17 +2,17 @@ import { navbar } from "vuepress-theme-hope";
 
 export const zhNavbar = navbar([
   
-  //1.指南
+  //0.指南
   { 
     text: "指南", 
     icon: "zhinan", 
     link: "/guide/" 
   },
    
-  //2.基础：H5+JS+ES+TS
+  //1.基础：H5+JS+ES+TS
   {
     text: "基础",
-    icon: "sf",
+    icon: "xinshouzhinan",
     prefix: "/basic/",
     children:[
       {
@@ -43,14 +43,48 @@ export const zhNavbar = navbar([
     ]
   },
 
-  //3.工具
+  //2.工程化
   {
-    text: "工具",
-    icon: "gongjuxiang",
-    link: "/tool/"
+    text: "工程化",
+    icon: "jianyanpifenxianggongchengbaoyan",
+    prefix: "/engineering/",
+    children:[
+      {
+        text: "Nodejs-Npm",
+        icon:"nodejs",
+        link: "nodejs/"
+      },
+      {
+        text: "Vite",
+        icon: "vuetifyjs",
+        link: "vite/"
+      },
+      {
+        text: "Axios",
+        icon: "http",
+        link: "axios/"
+      },
+      {
+        text: "Mock",
+        icon: "mock-icon",
+        link: "mock/"
+      },
+      {
+        text: "Sass",
+        icon: "sass",
+        link: "sass/"
+      },
+      {
+        text: "过时工具",
+        icon: "jinggao",
+        link: "old/"
+      }
+
+    ]
+
   },
 
-  //4.Vue
+  //3.Vue
   {
     text: "Vue",
     icon: "Vue",
@@ -63,7 +97,7 @@ export const zhNavbar = navbar([
       },
       {
         text: "Vue-Route",
-        icon: "vue-right",
+        icon: "route",
         link: "vueroute/",
       },
       {
@@ -84,7 +118,7 @@ export const zhNavbar = navbar([
     ]
   },
 
-  //5.Applet
+  //4.Applet
   {
     text: "小程序",
     icon: "xiaochengxu",
@@ -101,6 +135,11 @@ export const zhNavbar = navbar([
         link: "ucloud/"
       },
       {
+        text: "微信",
+        icon: "weixin",
+        link: "wechat/"
+      },
+      {
         text: "字节跳动",
         icon: "douyin1",
         link:"bytedance/"
@@ -108,31 +147,86 @@ export const zhNavbar = navbar([
     ]
   },
 
-  //6. 组件
+
+  //5. 小组件
   {
-    text: "组件",
-    icon: "jimu",
-    link: "/element/",
+    text: "小组件",
+    icon: "zujianhua",
+    prefix: "/element/",
+    children:[
+      {
+        text: "基础",
+        icon: "jimu",
+        link: "basic/"
+      },
+      {
+        text: "布局",
+        icon: "buju",
+        link: "layout/"
+      },   
+      {
+        text: "表单",
+        icon: "biaodanpeizhi",
+        link: "form/"
+      },
+      {
+        text: "数据卡片显示",
+        icon: "picture__easy",
+        link: "datacard/"
+      },  
+      {
+        text: "全局组件",
+        icon: "icon_rockets_sel",
+        link: "global/"
+      },
+      {
+        text: "通知反馈",
+        icon: "yijianfankui",
+        link: "feedback/"
+      },
+      {
+        text: "其他组件",
+        icon: "jichuzujian",
+        link: "other/"
+      },
+    ]
   },
 
   //7. awesome
   {
     text: "awesome",
     icon: "cool",
-    link: "/awesome/"
+    prefix: "/awesome/",
+    children: [
+      {
+        text: "ui框架",
+        icon: "UIshejiwang",
+        link: "ui/"
+      }
+    ]
   },
 
-  //8. dev
-  {
-    text: "dev",
-    icon: "kaifa1",
-    link: "/dev/"
-  },
-
-  //9. 项目
+  //8. 项目
   {
     text: "项目",
-    icon: "xiangmu4",
-    link: "/item/"
+    icon: "xiangmuguanli",
+    prefix: "/item/",
+    children:[
+      {
+        text: "商城",
+        icon: "fenqishangcheng",
+        link: "shop/"
+      }
+    ]
+  },
+
+  //9. other
+  {
+    text: "其他",
+    icon: "qita",
+    prefix:"/other/",
+    children:[
+      
+    ]
   }
 ]);

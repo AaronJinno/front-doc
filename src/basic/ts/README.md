@@ -1,6 +1,6 @@
 ---
-title: "          Uniapp"
-icon: "uniapp"
+title: "      TS"
+icon: "typescript"
 index: false
 ---
 :::tip

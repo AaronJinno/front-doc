@@ -1,7 +1,5 @@
 ---
-title: "指南"
+title: "基础"
+icon: "xinshouzhinan"
 index: false
 ---
-::: tip
-当前处于建设阶段
-:::

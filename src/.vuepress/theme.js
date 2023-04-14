@@ -16,8 +16,14 @@ export default hopeTheme({
   print:true,
   // iconAssets: "iconfont",
   // iconPrefix:"icon",
-  iconAssets:"https://at.alicdn.com/t/c/font_4010197_wq56vttkn38.css?spm=a313x.7781069.1998910419.52&file=font_4010197_wq56vttkn38.css",
-  
+  iconAssets:[
+    //common
+    "https://at.alicdn.com/t/c/font_4012534_n9f8eudn3i.css?spm=a313x.7781069.1998910419.81&file=font_4012534_n9f8eudn3i.css",
+    //other
+    "https://at.alicdn.com/t/c/font_4012543_ylrdf9cjue.css?spm=a313x.7781069.1998910419.89&file=font_4012543_ylrdf9cjue.css",
+    // Front-doc
+    "https://at.alicdn.com/t/c/font_4010197_58zn1oj6lgh.css?spm=a313x.7781069.1998910419.52&file=font_4010197_58zn1oj6lgh.css",
+  ],
   //3.布局配置
   logo: "/logo.svg",
   repoDisplay: false,

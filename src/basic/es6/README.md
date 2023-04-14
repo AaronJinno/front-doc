@@ -1,6 +1,6 @@
 ---
-title: "          Uniapp"
-icon: "uniapp"
+title: "       ES6"
+icon: "tubiaozhizuomoban"
 index: false
 ---
 :::tip

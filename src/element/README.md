@@ -1,7 +1,5 @@
 ---
-title: "指南"
+title: 小组件
+icon: zujianhua
 index: false
 ---
-::: tip
-当前处于建设阶段
-:::

@@ -1,6 +1,6 @@
 ---
-title: "          Uniapp"
-icon: "uniapp"
+title: "         Vite"
+icon: "vuetifyjs"
 index: false
 ---
 :::tip

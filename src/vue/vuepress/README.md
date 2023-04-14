@@ -1,6 +1,6 @@
 ---
-title: "          Uniapp"
-icon: "uniapp"
+title: "     Vuepress"
+icon: "folder-vuepress"
 index: false
 ---
 :::tip
