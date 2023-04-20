@@ -1,5 +1,5 @@
 ---
-title: "          Vue"
+title: "          Vue.js"
 icon: "Vue"
 index: false
 ---

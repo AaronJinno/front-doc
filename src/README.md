@@ -11,6 +11,10 @@ actions:
     link: /guide/
     type: primary
 
+  - text: 关于
+    link: /article/
+    type: info
+
 features:
   - title: 前端 全栈
     icon: UIshejiwang

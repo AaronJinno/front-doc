@@ -86,7 +86,7 @@ export default hopeTheme({
     },
     blog: {
       excerptLength:0,
-      filter:(page)=>Boolean(page.filePathRelative) && !page.frontmatter.home && Boolean(page.frontmatter.article)
+      // filter:(page)=>Boolean(page.filePathRelative) && !page.frontmatter.home && Boolean(page.frontmatter.article)
     },
     components:{
       components:[

@@ -91,9 +91,9 @@ export const zhNavbar = navbar([
     prefix: "/vue/",
     children:[
       {
-        text: "Vue",
+        text: "Vue.js",
         icon: "Vue",
-        link: "vue/"
+        link: "vuejs/"
       },
       {
         text: "Vue-Route",
