@@ -1,0 +1,1 @@
+import{_ as t,P as _,Q as n,S as e}from"./framework-3728cbf1.js";const c={},s=e("div",{class:"hint-container info"},[e("p",{class:"hint-container-title"},"相关信息"),e("p",null,"略：暂不考虑少数群体和特殊设备")],-1),o=[s];function a(i,l){return _(),n("div",null,o)}const d=t(c,[["render",a],["__file","8-1.无障碍访问.html.vue"]]);export{d as default};
