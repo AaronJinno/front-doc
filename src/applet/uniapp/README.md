@@ -3,6 +3,6 @@ title: "          Uniapp"
 icon: "uniapp"
 index: false
 ---
-:::tip
-文档迁移中...
+:::tip Line
+[官网](https://uniapp.dcloud.net.cn/)
 :::
