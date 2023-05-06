@@ -1,0 +1,1 @@
+import{_ as e,P as c,Q as n,S as t}from"./framework-3728cbf1.js";const a={},o=t("div",{class:"hint-container tip"},[t("p",{class:"hint-container-title"},"提示"),t("p",null,"TBD")],-1),s=[o];function _(i,l){return c(),n("div",null,s)}const d=e(a,[["render",_],["__file","4-3.datacom.html.vue"]]);export{d as default};
