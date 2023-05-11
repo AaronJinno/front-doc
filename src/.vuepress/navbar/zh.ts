@@ -213,9 +213,9 @@ export const zhNavbar = navbar([
     prefix: "/item/",
     children:[
       {
-        text: "商城",
+        text: "网易云音乐",
         icon: "fenqishangcheng",
-        link: "shop/"
+        link: "music-wy/"
       }
     ]
   },
