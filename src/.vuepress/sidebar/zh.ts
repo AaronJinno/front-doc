@@ -8,6 +8,9 @@ export const zhSidebar = sidebar({
   "/applet/":"structure",
   "/element/":"structure",
   "/awesome/":"structure",
-  "/item/":"structure",
+  
   "/other/":"structure",
+
+  // item单独配置
+  "/item/music-wy/":"structure"
 });

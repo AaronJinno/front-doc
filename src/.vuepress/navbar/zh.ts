@@ -214,7 +214,7 @@ export const zhNavbar = navbar([
     children:[
       {
         text: "网易云音乐",
-        icon: "fenqishangcheng",
+        icon: "wangyiyunyinle",
         link: "music-wy/"
       }
     ]

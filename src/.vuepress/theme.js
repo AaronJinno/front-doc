@@ -18,11 +18,13 @@ export default hopeTheme({
   // iconPrefix:"icon",
   iconAssets:[
     //common
-    "https://at.alicdn.com/t/c/font_4012534_2jy5bb8y0u9.css?spm=a313x.7781069.1998910419.52&file=font_4012534_2jy5bb8y0u9.css",
+    "https://at.alicdn.com/t/c/font_4012534_pkkav615qoe.css?spm=a313x.7781069.1998910419.52&file=font_4012534_pkkav615qoe.css",
     //other
     "https://at.alicdn.com/t/c/font_4012543_ylrdf9cjue.css?spm=a313x.7781069.1998910419.89&file=font_4012543_ylrdf9cjue.css",
     // Front-doc
     "https://at.alicdn.com/t/c/font_4010197_f41axcgf9au.css?spm=a313x.7781069.1998910419.81&file=font_4010197_f41axcgf9au.css",
+    //item
+    "https://at.alicdn.com/t/c/font_4063604_i8ceqjaip8j.css?spm=a313x.7781069.1998910419.52&file=font_4063604_i8ceqjaip8j.css"
   ],
   //3.布局配置
   logo: "/logo.svg",
