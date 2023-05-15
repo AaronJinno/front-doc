@@ -10,6 +10,7 @@ export const zhSidebar = sidebar({
   "/awesome/":"structure",
   
   "/other/":"structure",
+  "/dev/":"structure",
 
   // item单独配置
   "/item/music-wy/":"structure"

@@ -33,7 +33,7 @@ export const zhNavbar = navbar([
       {
         text: "ES6",
         icon:"tubiaozhizuomoban",
-        link:"es/",
+        link:"es6/",
       },
       {
         text: "TypeScript",
@@ -194,7 +194,7 @@ export const zhNavbar = navbar([
 
   //7. awesome
   {
-    text: "awesome",
+    text: "awe",
     icon: "cool",
     prefix: "/awesome/",
     children: [
@@ -220,7 +220,20 @@ export const zhNavbar = navbar([
     ]
   },
 
-  //9. other
+  //9. dev
+  {
+    text: "dev",
+    icon: "kaifa1",
+    prefix:"/dev/",
+    children:[
+      {
+        text: "样式布局指南",
+        icon: "shejimoshi",
+        link: "style-layout/"
+      }
+    ]
+  },
+  //10. other
   {
     text: "其他",
     icon: "qita",
