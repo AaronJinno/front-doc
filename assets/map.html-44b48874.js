@@ -1,0 +1,1 @@
+import{_ as t,P as n,Q as c,S as e}from"./framework-3728cbf1.js";const s={},a=e("div",{class:"hint-container danger"},[e("p",{class:"hint-container-title"},"介绍"),e("p",null,"该指南为H5（以CSS为主）样式与布局的懒人包。可以加快前端代码的书写。"),e("p",null,"该指南为长期更新，用过了就记录在这里。")],-1),o=[a];function l(_,r){return n(),c("div",null,o)}const d=t(s,[["render",l],["__file","map.html.vue"]]);export{d as default};
