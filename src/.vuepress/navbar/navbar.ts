@@ -216,7 +216,7 @@ export const zhNavbar = navbar([
         text: "网易云音乐",
         icon: "wangyiyunyinle",
         link: "music-wy/"
-      }
+      },
     ]
   },
 

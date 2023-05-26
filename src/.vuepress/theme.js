@@ -1,6 +1,6 @@
 import { hopeTheme } from "vuepress-theme-hope";
-import { zhNavbar } from "./navbar/index.js";
-import { zhSidebar } from "./sidebar/index.js";
+import { zhNavbar } from "./navbar/navbar.ts";
+import { zhSidebar } from "./sidebar/sidebar.ts";
 
 export default hopeTheme({
   //1.基本配置

@@ -13,5 +13,5 @@ export const zhSidebar = sidebar({
   "/dev/":"structure",
 
   // item单独配置
-  "/item/music-wy/":"structure"
+  "/item/music-wy/":"structure",
 });
