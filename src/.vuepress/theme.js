@@ -144,11 +144,14 @@ export default hopeTheme({
 
     pwa: {
       favicon: "/favicon.ico",
-      cacheHTML: true, //缓存所有HTML页面
+      // cacheHTML: true, //缓存所有HTML页面
       cachePic: true, //缓存站点图片
       appendBase: true,
-      maxSize:2000,
-      maxPicSize:3000,
+      maxSize:2000, //缓存的文件大小控制
+      maxPicSize:3000, //缓存的图片大小控制
+      //更新控制：开发时设置为hint，维护时设置为available
+      update:"hint"
+     
     },
   },
 });
