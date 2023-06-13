@@ -1,0 +1,1 @@
+import{_ as c,o as n,c as s,a as t,b as e}from"./app-ba294a04.js";const _={},a=t("div",{class:"hint-container tip"},[t("p",{class:"hint-container-title"},"提示"),t("p",null,[e("track标签用来显示字幕，很多浏览器并不支持该标签。"),t("br"),e(" 实际开发中采用成熟播放器内置的tt字幕组件。")])],-1),o=[a];function r(i,l){return n(),s("div",null,o)}const f=c(_,[["render",r],["__file","6-4.字幕.html.vue"]]);export{f as default};

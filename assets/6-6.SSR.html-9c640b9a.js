@@ -1,1 +1,0 @@
-import{_ as t,P as n,Q as c,S as e}from"./framework-3728cbf1.js";const s={},_=e("div",{class:"hint-container danger"},[e("p",{class:"hint-container-title"},"TBD"),e("p",null,"暂略，以后再说，暂时不开发H5应用。")],-1),o=[_];function a(r,l){return n(),c("div",null,o)}const d=t(s,[["render",a],["__file","6-6.SSR.html.vue"]]);export{d as default};

@@ -1,1 +1,0 @@
-import{_ as t,P as n,Q as _,S as e}from"./framework-3728cbf1.js";const c={},s=e("div",{class:"hint-container danger"},[e("p",{class:"hint-container-title"},"TBD"),e("p",null,"暂略：不进行测试，后期再说")],-1),o=[s];function a(r,l){return n(),_("div",null,o)}const d=t(c,[["render",a],["__file","6-5.测试.html.vue"]]);export{d as default};
