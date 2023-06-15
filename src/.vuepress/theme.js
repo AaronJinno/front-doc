@@ -26,6 +26,7 @@ export default hopeTheme({
     //item
     "https://at.alicdn.com/t/c/font_4063604_i8ceqjaip8j.css?spm=a313x.7781069.1998910419.52&file=font_4063604_i8ceqjaip8j.css"
   ],
+
   //3.布局配置
   logo: "/logo.svg",
   repoDisplay: false,
@@ -152,7 +153,6 @@ export default hopeTheme({
       maxPicSize:3000, //缓存的图片大小控制
       //更新控制：开发时设置为hint，维护时设置为available
       update:"hint"
-     
     },
   },
 });
