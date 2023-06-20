@@ -1,0 +1,1 @@
+import{_ as t,o as n,c as _,a as e}from"./app-2b89a278.js";const c={},o=e("div",{class:"hint-container info"},[e("p",{class:"hint-container-title"},"相关信息"),e("p",null,"TBD")],-1),s=[o];function a(i,l){return n(),_("div",null,s)}const d=t(c,[["render",a],["__file","4.开源库.html.vue"]]);export{d as default};

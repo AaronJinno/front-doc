@@ -1,0 +1,1 @@
+import{_ as e,o as c,c as a,a as t}from"./app-2b89a278.js";const n={},o=t("div",{class:"hint-container tip"},[t("p",{class:"hint-container-title"},"提示"),t("p",null,"TBD")],-1),s=[o];function _(i,l){return c(),a("div",null,s)}const d=e(n,[["render",_],["__file","4-3.datacom.html.vue"]]);export{d as default};
