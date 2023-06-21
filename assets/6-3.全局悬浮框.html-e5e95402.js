@@ -1,0 +1,1 @@
+import{_,o as t,c as o,a as e,b as s}from"./app-351da1f5.js";const a={},c=e("h4",{id:"介绍",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#介绍","aria-hidden":"true"},"#"),s(" 介绍")],-1),n=e("p",null,"全局悬浮组件，用于显示通告和广告。",-1),r=e("p",null,"暂略。",-1),d=[c,n,r];function l(i,h){return t(),o("div",null,d)}const u=_(a,[["render",l],["__file","6-3.全局悬浮框.html.vue"]]);export{u as default};

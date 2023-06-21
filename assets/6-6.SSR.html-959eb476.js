@@ -1,0 +1,1 @@
+import{_ as t,o as n,c,a as e}from"./app-351da1f5.js";const s={},o=e("div",{class:"hint-container danger"},[e("p",{class:"hint-container-title"},"TBD"),e("p",null,"暂略，以后再说，暂时不开发H5应用。")],-1),_=[o];function a(r,l){return n(),c("div",null,_)}const d=t(s,[["render",a],["__file","6-6.SSR.html.vue"]]);export{d as default};
