@@ -1,1 +1,0 @@
-import{_ as t,o as n,c,a as e}from"./app-68218236.js";const _={},s=e("div",{class:"hint-container danger"},[e("p",{class:"hint-container-title"},"TBD"),e("p",null,"暂略：不进行测试，后期再说")],-1),o=[s];function a(r,l){return n(),c("div",null,o)}const d=t(_,[["render",a],["__file","6-5.测试.html.vue"]]);export{d as default};

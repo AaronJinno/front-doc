@@ -1,1 +1,0 @@
-import{_ as t,o as n,c,a as e}from"./app-68218236.js";const _={},o=e("div",{class:"hint-container info"},[e("p",{class:"hint-container-title"},"相关信息"),e("p",null,"TBD")],-1),s=[o];function a(i,l){return n(),c("div",null,s)}const d=t(_,[["render",a],["__file","6.插件.html.vue"]]);export{d as default};

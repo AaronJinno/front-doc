@@ -1,0 +1,1 @@
+import{_ as n,o as t,c as s,a as e}from"./app-c07941ad.js";const c={},o=e("div",{class:"hint-container warning"},[e("p",{class:"hint-container-title"},"注意"),e("p",null,"暂略：该功能是实验性功能")],-1),_=[o];function a(r,i){return t(),s("div",null,_)}const d=n(c,[["render",a],["__file","5-4.Suspense.html.vue"]]);export{d as default};
