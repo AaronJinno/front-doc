@@ -1,1 +1,0 @@
-import{_ as t,o as n,c,a as e}from"./app-8888c5c9.js";const a={},s=e("div",{class:"hint-container danger"},[e("p",{class:"hint-container-title"},"介绍"),e("p",null,"该指南为H5（以CSS为主）样式与布局的懒人包。可以加快前端代码的书写。"),e("p",null,"该指南为长期更新，用过了就记录在这里。")],-1),o=[s];function l(_,r){return n(),c("div",null,o)}const d=t(a,[["render",l],["__file","map.html.vue"]]);export{d as default};

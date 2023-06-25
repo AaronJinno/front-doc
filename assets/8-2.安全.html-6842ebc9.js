@@ -1,0 +1,1 @@
+import{_ as t,o as n,c,a as e}from"./app-68218236.js";const _={},o=e("div",{class:"hint-container info"},[e("p",{class:"hint-container-title"},"相关信息"),e("p",null,"暂略：等基本功能熟练了，再考虑安全问题")],-1),s=[o];function a(i,l){return n(),c("div",null,s)}const d=t(_,[["render",a],["__file","8-2.安全.html.vue"]]);export{d as default};

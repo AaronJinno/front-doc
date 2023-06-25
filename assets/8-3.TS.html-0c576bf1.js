@@ -1,0 +1,1 @@
+import{_ as t,o as n,c,a as e}from"./app-68218236.js";const o={},s=e("div",{class:"hint-container info"},[e("p",{class:"hint-container-title"},"相关信息"),e("p",null,"略：暂时不准备学习TS")],-1),_=[s];function a(i,l){return n(),c("div",null,_)}const d=t(o,[["render",a],["__file","8-3.TS.html.vue"]]);export{d as default};
