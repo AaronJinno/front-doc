@@ -1,0 +1,44 @@
+{
+  "id": "4137540",
+  "name": "06-emoji",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1205841",
+      "name": "cool",
+      "font_class": "cool",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "3425416",
+      "name": "重要",
+      "font_class": "zhongyao",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "7671829",
+      "name": "中心",
+      "font_class": "zhongxin",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "9826664",
+      "name": "警告",
+      "font_class": "jinggao",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "26798899",
+      "name": "重要提示",
+      "font_class": "zhongyaotishi",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}
